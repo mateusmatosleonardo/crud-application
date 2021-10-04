@@ -13,4 +13,19 @@ header.header{
 
 .router{
     width: 70%;
+    padding: 10px 15px;
+    background-color: #fff;
+}
+
+.router i{
+    background-color: #fff;
+}
+
+.router p{
+    background-color: #fff;
+}
+
+.router h1{
+    font-weight: normal;
+    background-color: #fff;
 }

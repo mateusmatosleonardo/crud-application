@@ -8,7 +8,10 @@ const Header = (props) =>{
                 Logo aqui
             </div>
             <div className="router">
-                Outro texto aqui
+                <h1>
+                <i className="fa fa-home"></i> {props.title}
+                </h1>
+                <p>{props.subtitle}</p>
             </div>
         </header>
     )
